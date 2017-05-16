@@ -5,16 +5,15 @@
   "main": "index.js",
   "scripts": {
     "start": "node server.js",
-    "dev": "webpack -d && cp src/index.html dist/index.html && cp -R src/app/img dist/app && webpack-dev-server --content-base src/ --inline --hot",
-    "postinstall": "webpack -p && cp src/index.html dist/index.html && cp -R src/app/img dist/app"
+    "dev": "webpack -d && cp src/index.html dist/index.html && cp -R src/images dist/app && webpack-dev-server --content-base src/ --inline --hot",
+    "postinstall": "webpack -p && cp src/index.html dist/index.html && cp -R src/images dist/app"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CaptRat-tiy/blog-assignment-w-react.git"
+    "url": "https://github.com/CaptRat-tiy/blog-assignment-w-react.git"
   },
   "author": "Patrick Logan",
   "license": "ISC",
-  "homepage": "http://add later",
   "dependencies": {
     "babel-core": "^6.18.2",
     "babel-loader": "^6.2.7",

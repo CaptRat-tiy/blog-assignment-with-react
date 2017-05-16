@@ -1,0 +1,25 @@
+{
+  "name": "blog-assignment-w-react",
+  "version": "1.5.0",
+  "description": "reinstall with moved index.html",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CaptRat-tiy/blog-assignment-with-react.git"
+  },
+  "keywords": [
+    "React",
+    "blog",
+    ".json"
+  ],
+  "author": "Patrick Logan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CaptRat-tiy/blog-assignment-with-react/issues"
+  },
+  "homepage": "https://github.com/CaptRat-tiy/blog-assignment-with-react#readme"
+}
