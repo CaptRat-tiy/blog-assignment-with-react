@@ -1,6 +1,3 @@
-#don't need to track the webpack created distribution
-
-dist/*
 
 # Created by https://www.gitignore.io/api/macos,node
 
@@ -60,7 +57,6 @@ coverage
 build/Release
 
 # Dependency directories
-node_modules
 jspm_packages
 
 # Optional npm cache directory
