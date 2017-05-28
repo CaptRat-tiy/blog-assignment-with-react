@@ -5,5 +5,4 @@ This blog posts should include a date-time entry and tags.
 This sidebar should include a list of months when a blog entry has been made, along with a list of tags used on blogs. Clicking on a month or tag should show a filtered list of blog entries.
 Then modify this blog so that you can use blog entries as project entries, to include a video or screenshot. Visitors should be able to select a 'portfolio' tag to see your portfolio entries.
 
-There are two (identical) index.html files - one for localhost:8080 build and another for hosting on Github Pages.
 If wanted to run local, "npm run dev" from terminal, display on "localhost:8080" on your machine.

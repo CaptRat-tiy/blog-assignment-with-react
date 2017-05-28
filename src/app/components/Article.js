@@ -16,7 +16,7 @@ export default class Article extends React.Component {
           blogData.map((c,i,a) => {
             return (
               <div key={i} className="individualBlog">
-                <h6>{c.title}</h6>
+                <h5>{c.title}</h5>
                 <Date blogDates={c.date} />
                 {c.article.map((para, j) => {
                   if(para.includes(".jpg")||para.includes(".jpeg")||para.includes(".png")||para.includes(".gif")){

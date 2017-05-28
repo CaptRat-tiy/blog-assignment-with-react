@@ -12,7 +12,7 @@
       "Now that I’ve spent considerable time under the surface of coding watching online code-alongs and YouTube tutorials, listening to applicable podcasts and hearing the jargon in Meetup presentations, I have become slightly less intimidated by code’s foreboding, unforgiving, foreign cast and its evasive logic. But I continue to wonder if coding languages are like Latin, or other dead languages, and with no shared dialogue – the back & forth of communication – if they contain no real kernel of 'language'.",
       "Here is an example of modern English: 'totes' is a sensible hipster answer to 'you interested in seeing the new Star Wars?'' But its dialect would stump Siri, because the meaning lies within the context, and inference eludes an algorithm. I think 'language' and linearity, 'language' and logic may be incompatible, and part of my struggle is trying to comprehend this stuff as a language.",
       "Javascript and Error messages and testing scripts – these remain advanced Greek to me - a dogmatic and confusing series of words whose precision lays in ambush, beyond my ability. I think code is like Trump, just needling me with 'WRONG! WRONG!' without helping me to understand. The lack of collaboration, code’s esoteric quality and the vast, vast world of required background information, makes fluency still seem nearly impossible.",
-      "./src/images/Semiotics.gif"
+      "./images/Semiotics.gif"
     ],
 
     "tags": ["Learning javascript", "beginner", "collaboration"],
